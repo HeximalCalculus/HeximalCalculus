@@ -1,7 +1,8 @@
 ## Hi there 👋
-This is my school GitHub account. I'm just beginning my journey. 🌱
+### This is my school GitHub account. I'm just beginning my journey. 🌱
 Pronouns: He/him
-I like math.
+
+_I like math._
 <!--
 **HeximalCalculus/HeximalCalculus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
